@@ -1,0 +1,11 @@
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\bin\Debug\netcoreapp3.1\ShallowAndDeepCopy.exe
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\bin\Debug\netcoreapp3.1\ShallowAndDeepCopy.deps.json
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\bin\Debug\netcoreapp3.1\ShallowAndDeepCopy.runtimeconfig.json
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\bin\Debug\netcoreapp3.1\ShallowAndDeepCopy.runtimeconfig.dev.json
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\bin\Debug\netcoreapp3.1\ShallowAndDeepCopy.dll
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\bin\Debug\netcoreapp3.1\ShallowAndDeepCopy.pdb
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\obj\Debug\netcoreapp3.1\ShallowAndDeepCopy.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\obj\Debug\netcoreapp3.1\ShallowAndDeepCopy.AssemblyInfo.cs
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\obj\Debug\netcoreapp3.1\ShallowAndDeepCopy.dll
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\obj\Debug\netcoreapp3.1\ShallowAndDeepCopy.pdb
+C:\Users\Én\source\repos\ShallowAndDeepCopy\ShallowAndDeepCopy\obj\Debug\netcoreapp3.1\ShallowAndDeepCopy.csprojAssemblyReference.cache
